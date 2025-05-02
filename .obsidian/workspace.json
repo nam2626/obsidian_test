@@ -67,12 +67,14 @@
             "id": "a8abb495cd105e5b",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Drawing 2025-05-02 22.40.09.excalidraw.md"
+                "file": "테스트 노트111.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2025-05-02 22.40.09.excalidraw"
+              "icon": "lucide-file",
+              "title": "테스트 노트111"
             }
           }
         ],
@@ -168,12 +170,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "무제.md",
+                "file": "create a link.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "무제 의 나가는 링크"
+              "title": "create a link 의 나가는 링크"
             }
           },
           {
@@ -197,13 +199,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "무제.md",
+                "file": "create a link.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "무제 의 개요"
+              "title": "create a link 의 개요"
             }
           },
           {
@@ -238,10 +240,12 @@
   },
   "active": "a8abb495cd105e5b",
   "lastOpenFiles": [
-    "무제.md",
-    "Excalidraw/Drawing 2025-05-02 22.40.09.excalidraw.md",
-    "환영합니다!.md",
     "create a link.md",
+    "테스트 노트111.md",
+    "환영합니다!.md",
+    "무제.md",
+    "Excalidraw/ssss.md",
+    "Excalidraw/Drawing 2025-05-02 22.40.09.excalidraw.md",
     "Drawing 2025-05-02 22.10.28.excalidraw.md",
     "Excalidraw/Drawing 2025-05-02 22.15.31.excalidraw.md",
     "Excalidraw/Drawing 2025-05-02 22.10.28.excalidraw.md",
