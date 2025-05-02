@@ -62,9 +62,21 @@
               "icon": "lucide-file",
               "title": "create a link"
             }
+          },
+          {
+            "id": "a8abb495cd105e5b",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2025-05-02 22.40.09.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2025-05-02 22.40.09.excalidraw"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -224,10 +236,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "86a3a4e109dd20a3",
+  "active": "a8abb495cd105e5b",
   "lastOpenFiles": [
-    "환영합니다!.md",
     "무제.md",
+    "Excalidraw/Drawing 2025-05-02 22.40.09.excalidraw.md",
+    "환영합니다!.md",
     "create a link.md",
     "Drawing 2025-05-02 22.10.28.excalidraw.md",
     "Excalidraw/Drawing 2025-05-02 22.15.31.excalidraw.md",
